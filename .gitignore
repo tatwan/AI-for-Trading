@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 .DS_Store
-
+.Trash*/*
 .Trash*
 .*
