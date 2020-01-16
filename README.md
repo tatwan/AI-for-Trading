@@ -1,5 +1,7 @@
 # Artificial Intelligence for Trading Nanodegree
 
+<img src="images/AI_for_Trading.png" width="500">
+
 [Source](https://www.businesswire.com/news/home/20180816005146/en/WorldQuant-Udacity-Partner-Offer-Artificial-Intelligence-Trading)
 
 WorldQuant, a global quantitative asset management firm, in partnership with global online learning company Udacity announces the launch of a new Artificial Intelligence for Trading Nanodegree program. Students enrolled in the program will analyze real data and build financial models by learning the basics of quantitative trading, as well as how to analyze alternative data and use machine learning to generate trading signals.
